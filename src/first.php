@@ -3,12 +3,15 @@ namespace drAlexPHP\testone;
 
 class First 
 {
-	protected
+	protected flag;
 
 	function __construct()
 	{
 		return $this;
 	}
 
-	function get
+	function getFlag
+	{
+		return $this->flag;
+	}
 }
