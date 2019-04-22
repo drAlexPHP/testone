@@ -1,9 +1,8 @@
 {
     "name": "dralexphp/testone",
     "description": "test exp",
-    "type": "project",
+    "type": "library",
     "require": {
-        "php": "7.1"
     },
     "license": "MIT",
     "authors": [
